@@ -9,7 +9,7 @@ of course.
 
 💞️ I’m open for an exchange of ideas on how to run a home network that has the scope of an SME's network. This includes: documentation for whoever takes over
 the home network if the family moves out; and day-to-day operations of a network that - in a commercial environment - would have a full-time paid manager.
-Sadly, the IT industry is currently more concerned with grabbing a piece of the IoT/smarthome cake than providing any meaningful standards for interaction of
+Sadly, the IT industry is currently more concerned with grabbing a piece of the IoT/smart home cake than providing any meaningful standards for interaction of
 components.
 
 <!---
