@@ -7,7 +7,7 @@ family), so that the smart home will still function even if the family moves out
 🌱 I’m currently learning an awful lot about Ubuntu, which is my platform of choice for servers, and MacOS, which I use for desktops and laptops. And OpenHAB,
 of course.
 
-💞️ I’m open for an exchange of ideas on how to run a home network that has the scope of an SME's network. This includes: documentation for whoever takes over
+💞️ I’m open for an exchange of ideas on how to run a home network that has the size and complexity of an SME's network. This includes: documentation for whoever takes over
 the home network if the family moves out; and day-to-day operations of a network that - in a commercial environment - would have a full-time paid manager.
 Sadly, the IT industry is currently more concerned with grabbing a piece of the IoT/smart home cake than providing any meaningful standards for interaction of
 components.
