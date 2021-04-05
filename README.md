@@ -1,6 +1,6 @@
 👋 My name is Stephen Winnall, known as Steve (or @winnall on Github). I am a retired IT and Internet specialist living in Switzerland.
 
-👀 I’m especially interested in home automation. I use [OpenHAB](https://www.openhab.org) to integrate various smart home technologies. I am focussing at the moment on establishing
+👀 I’m especially interested in home automation. I use [OpenHAB](https://www.openhab.org) to integrate various smart home technologies. I am focussing at the moment on establishing reliable
 professional-level infrastructure for my home, which entails dividing my organically grown home network into functional parts (at the top level: house and
 family), so that the smart home will still function even if the family moves out.
 
