@@ -5,7 +5,7 @@ It combines open tools — Ubuntu LTS, Docker Swarm, Ansible, LDAP, and OpenHAB 
 
 I’m learning more every day about Ubuntu, macOS, and OpenHAB, and I’m keen to exchange ideas on:
 -	self-documenting home networks
-–	long-term maintainability of smart homes
+- long-term maintainability of smart homes
 -	realistic standards for device interoperability
 
 Because home automation should mean ownership and understanding, not dependence on cloud silos.
