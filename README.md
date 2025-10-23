@@ -1,18 +1,11 @@
-👋 My name is Stephen Winnall, known as Steve (or @winnall on Github). I am a retired IT and Internet specialist living in Switzerland.
+I’m a retired IT and Internet specialist living in Switzerland, now building the 878 Network — a professional-grade digital home infrastructure.
 
-👀 I’m especially interested in home automation. I use [OpenHAB](https://www.openhab.org) to integrate various smart home technologies. I am focussing at the moment on establishing reliable
-professional-level infrastructure for my home, which entails dividing my organically grown home network into functional parts (at the top level: house and
-family), so that the smart home will still function even if the family moves out.
+The project reorganises my once-organic home network into functional domains (house ↔ family) so the smart home keeps running independently of who lives here.
+It combines open tools — Ubuntu LTS, Docker Swarm, Ansible, LDAP, and OpenHAB 5 — with proper documentation in Obsidian to create a system that could be managed like an SME network.
 
-🌱 I’m currently learning an awful lot about Ubuntu, which is my platform of choice for servers, and MacOS, which I use for desktops and laptops. And OpenHAB,
-of course.
+I’m learning more every day about Ubuntu, macOS, and OpenHAB, and I’m keen to exchange ideas on:
+	•	self-documenting home networks
+	•	long-term maintainability of smart homes
+	•	realistic standards for device interoperability
 
-💞️ I’m open for an exchange of ideas on how to run a home network that has the size and complexity of an SME's network. This includes: documentation for whoever takes over
-the home network if the family moves out; and day-to-day operations of a network that - in a commercial environment - would have a full-time paid manager.
-Sadly, the IT industry is currently more concerned with grabbing a piece of the IoT/smart home cake than providing any meaningful standards for interaction of
-components.
-
-<!---
-winnall/winnall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Because home automation should mean ownership and understanding, not dependence on cloud silos.
